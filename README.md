@@ -7,9 +7,9 @@ Cześć! Jestem **pasjonatem web developmentu**, specjalizującym się w tworzen
 
 ---
 
-## 🔧 Technologie, którymi się posługuję:  
+## 🔧 Języki, którymi się posługuję:  
 ### Frontend  
-- **HTML5** & **CSS3** (SCSS, Tailwind CSS, Bootstrap)  
+- **HTML** & **CSS3** ( Tailwind CSS, Bootstrap)  
 - **JavaScript** (React, Next.js)  
 
 ### Backend  

@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Akukuuu/Akukuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Witaj na moim profilu!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 O mnie  
+Cześć! Jestem **pasjonatem web developmentu**, specjalizującym się w tworzeniu nowoczesnych, responsywnych i stylowych stron oraz aplikacji internetowych. Uwielbiam eksperymentować z różnymi technologiami, aby każdy projekt był unikalny i dopracowany.
+
+---
+
+## 🔧 Technologie, którymi się posługuję:  
+### Frontend  
+- **HTML5** & **CSS3** (SCSS, Tailwind CSS, Bootstrap)  
+- **JavaScript** (React, Next.js)  
+
+### Backend  
+- **PHP** (Laravel)
+- **Node.js** (Express)  
+- **MySQL**
